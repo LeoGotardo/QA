@@ -1,7 +1,7 @@
 # Relatório Completo do Projeto
 ## Sistema de Controle de Empréstimos Pessoais
 
-**Equipe:** [Nome da equipe]  
+**Equipe:** Leonardo Gotardo
 **Data de Início:** 04/12/2024  
 **Data de Conclusão:** 04/12/2024  
 **Versão:** 1.0
