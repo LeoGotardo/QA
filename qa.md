@@ -4,7 +4,7 @@
 **Projeto:** Controle de Empréstimos  
 **Versão da Aplicação:** 1.0  
 **Data do Plano:** 04/12/2024  
-**Responsável pelos Testes:** [Seu Nome]  
+**Responsável pelos Testes:** [Leonardo Gotardo
 **Tipo de Teste:** Funcional (Caixa Preta) + Usabilidade
 
 ---
